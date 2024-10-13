@@ -39,7 +39,7 @@ Dieses Projekt bietet ein PHP-basiertes Directory Listing für ISO-Dateien, Imag
 
 ## Screenshots
 
-![Directory Listing Screenshot](https://example.com/screenshot.jpg) _(Bitte füge hier einen Screenshot des Verzeichnisses ein.)_
+![Directory Listing Screenshot](blob:https://photos.onedrive.com/9ad7c3ce-de5e-41b3-9863-7a99a5347c6d) _(Bitte füge hier einen Screenshot des Verzeichnisses ein.)_
 
 ## Lizenz
 
