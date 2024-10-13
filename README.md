@@ -2,6 +2,10 @@
 
 Dieses Projekt bietet ein PHP-basiertes Directory Listing für ISO-Dateien, Images und Apps mit integrierter Suchfunktion, Ordnernavigation und einem automatischen Changelog-System. Änderungen wie hinzugefügte oder gelöschte Dateien werden automatisch protokolliert. Es eignet sich besonders für Server, auf denen man Dateien wie Linux-Distributionen, Windows-Images oder andere große Dateien zum Download anbieten möchte.
 
+## Screenshots
+
+![Directory Listing Screenshot](https://img001.prntscr.com/file/img001/aXkJWAUfR5eTI5MhG9qGaQ.png)
+
 ## Funktionen
 
 - **Directory Listing**: Zeigt alle Dateien und Ordner im aktuellen Verzeichnis an.
@@ -36,10 +40,6 @@ Dieses Projekt bietet ein PHP-basiertes Directory Listing für ISO-Dateien, Imag
 
 - **PHP 7.0 oder höher**: Das Skript verwendet standardmäßige PHP-Funktionen wie `realpath()`, `json_encode()` und `opendir()`, die in neueren PHP-Versionen verfügbar sind.
 - **Webserver**: Ein Webserver wie Apache oder Nginx wird benötigt, um die Dateien bereitzustellen.
-
-## Screenshots
-
-![Directory Listing Screenshot](https://img001.prntscr.com/file/img001/aXkJWAUfR5eTI5MhG9qGaQ.png) _(Bitte füge hier einen Screenshot des Verzeichnisses ein.)_
 
 ## Lizenz
 
