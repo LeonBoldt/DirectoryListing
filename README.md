@@ -27,7 +27,7 @@ Dieses Projekt bietet ein PHP-basiertes Directory Listing für ISO-Dateien, Imag
 
 ## Anpassungen
 
-- **Logo ändern**: Ersetze die Datei `ISO Server.svg` durch dein eigenes Logo.
+- **Logo ändern**: Ersetze die Datei `logo.svg` durch dein eigenes Logo.
 - **Verzeichnis-Path**: Der Basisverzeichnis-Pfad ist aktuell auf `./` gesetzt. Du kannst dies in der PHP-Variable `$baseDirectory` anpassen.
 - **Changelog-Größe**: Die Anzahl der Änderungen im Changelog ist aktuell auf 5 begrenzt. Dies kannst du in der Datei `index.php` anpassen, indem du die Zeile `array_slice(array_reverse($changelog['log']), 0, 5)` modifizierst.
 - **Bootstrap-Design**: Das Projekt verwendet Bootstrap für die grafische Gestaltung. Du kannst das Styling einfach anpassen, indem du die eingebundene Bootstrap-Version änderst oder dein eigenes CSS hinzufügst.
